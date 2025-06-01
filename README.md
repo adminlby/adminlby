@@ -16,10 +16,9 @@ The websites that I managed 我管理的旗下站点:
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  --
 Representative Projects 代表项目:
 1. AMBOT @adminlby/ambot
-2. Aeroview Photos @adminlby/aeroview_photos
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  --
 > 如果您想要加入我们，请联系Email  liub6696@gmail.com/LBY-HK2009@hotmail.com 或者 QQ 465723320/1587113729 <br/>
-If you want to join us, please contact us by email **liub6696@gmail.com**/**LBY-HK2009@hotmail.com** or QQ **465723320**/**1587113729**
+If you want to join us, please contact us by email **liub6696@gmail.com**/**LBY-HK2009@hotmail.com** or QQ **465723320**
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  --
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adminlby) 

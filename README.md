@@ -10,7 +10,6 @@
 I am from the Hong Kong Special Administrative Region of China. I am mainly responsible for the operation and maintenance of the servers and projects within the team, as well as a small amount of development work.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  --
 The websites that I managed 我管理的旗下站点:
-- Aeroview Photos 航空摄影图库 www.aeroview.com.cn
 - MCBBS 2nd mcbbs.app
 - Offical Website 官网 light.gs
 - Program Ai 代码分析及托管平台 program.ai/beta.program.ai

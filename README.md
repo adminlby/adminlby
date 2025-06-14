@@ -24,7 +24,7 @@
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=adminlby&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->    
-    <a href="https://wakatime.com/@adminlby"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+    <a href="https://wakatime.com/@adminlby"><img src="https://wakatime.com/badge/user/d4bf3eac-3530-46ab-9ccb-6bbcf34492ed.svg" /></a>
 
   </div>
 

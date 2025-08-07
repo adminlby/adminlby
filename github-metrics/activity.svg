@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#5 更新 README.md，增强功能概述和技术栈描述，优化项目结构和数据库表信息</span>
+                                        <span class="issue">#9 更新飞机照片API地址，切换至新的数据源</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">Aviation-VOX/Aviation_VOX_Web</span></div>
-                                    <div>18 files changed <span class="code">++258 --77</span></div>
+                                    <div> in <span class="repo">Aviation-VOX/AeroTrack</span></div>
+                                    <div>1 file changed <span class="code">++4 --4</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#5 更新 README.md，增强功能概述和技术栈描述，优化项目结构和数据库表信息</span>
+                                        <span class="issue">#9 更新飞机照片API地址，切换至新的数据源</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">Aviation-VOX/Aviation_VOX_Web</span></div>
-                                    <div>18 files changed <span class="code">++258 --77</span></div>
+                                    <div> in <span class="repo">Aviation-VOX/AeroTrack</span></div>
+                                    <div>1 file changed <span class="code">++4 --4</span></div>
                                 </div>
                             </section>
                         </div>
@@ -57,12 +57,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#22 feat: 更新README.md，重构项目描述和功能介绍</span>
+                                        <span class="issue">#8 优化飞机数据获取逻辑，新增飞机在中国大陆及境外的判断；更新免责声明内容，明确数据来源及责任</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">Aviation-VOX/Aviation_VOX</span></div>
-                                    <div>1 file changed <span class="code">++239 --132</span></div>
+                                    <div> in <span class="repo">Aviation-VOX/AeroTrack</span></div>
+                                    <div>1 file changed <span class="code">++55 --7</span></div>
                                 </div>
                             </section>
                         </div>
@@ -74,12 +74,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#22 feat: 更新README.md，重构项目描述和功能介绍</span>
+                                        <span class="issue">#8 优化飞机数据获取逻辑，新增飞机在中国大陆及境外的判断；更新免责声明内容，明确数据来源及责任</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">Aviation-VOX/Aviation_VOX</span></div>
-                                    <div>1 file changed <span class="code">++239 --132</span></div>
+                                    <div> in <span class="repo">Aviation-VOX/AeroTrack</span></div>
+                                    <div>1 file changed <span class="code">++55 --7</span></div>
                                 </div>
                             </section>
                         </div>
@@ -91,12 +91,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#21 feat: 将所有页面标题和版权信息更新为 Aviation VOX</span>
+                                        <span class="issue">#5 更新 README.md，增强功能概述和技术栈描述，优化项目结构和数据库表信息</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">Aviation-VOX/Aviation_VOX</span></div>
-                                    <div>25 files changed <span class="code">++59 --55</span></div>
+                                    <div> in <span class="repo">Aviation-VOX/Aviation_VOX_Web</span></div>
+                                    <div>18 files changed <span class="code">++258 --77</span></div>
                                 </div>
                             </section>
                         </div>

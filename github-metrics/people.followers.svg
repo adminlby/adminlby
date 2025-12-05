@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="114" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="154" class="">
     <defs>
         <style/>
     </defs>
@@ -28,10 +28,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    0 followed
+                    1 followed
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAkACQDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBQEHCAP/xAAwEAABAgQEBAQGAwEAAAAAAAABAgMABAURBhIhMRMUIkEHMlGhFSNhcYGRQqLR4f/EABkBAQEBAAMAAAAAAAAAAAAAAAQDBQABBv/EAB4RAAICAwADAQAAAAAAAAAAAAABAhEDEjEEITJx/9oADAMBAAIRAxEAPwDoCrTNWlauDKJbXKKSL8U9KN9dNf8AY8qpVZ7l20SHDLhAzOuaC3fTXfsPeK3FqH6RT6hOvv8AGBILec7WJsP7+31hLor9Zr7UzMy7rgaeJFtBlTcgFB/Birjas7x9GWexU/LtAPOu842rqZYJct6GwFyNREWm+JTk205KPsZaih7l8rZsCu9tT2jVlTqb+H5n4jTXnX5llQDjjySAgFAGxsToT+vSLPw4nW6lj6ozlSPEYbaLhb3Fj8sBG3dz8QqGKKjclYfLkk3UfR0TTlqVIsHiJdOQZltq6Srvb83giDQeRXTkrppmFy6iSFFa9T33ggbKWKHiq+H6RUZF9DjMtw8/M5ja4t6fftrpGvsBYwmKRI8iuSXOywdVw5lPy9N8676C5v7w941p/OYhRO1VUwinSqkBlpHkc3K1q7i2mg3032hVxFNyeIq4ilCwlHAHn3wkXKQbEBe+x3+sJxKMlrRx7QW4h4gxBMVSZmJkNIQHQoZEt5yATa3rqBba28XPhD8TnK9NvcEtPup4bbz7fSHAtF0EWt5Ce25RDVVHcP0yalxTZKSaaV0OBtPnFu5I12H6jLE7SWWptpiYRKlsZxwmR1g7bd9PeLqD1pIhLJb9s3LTwpEohI4aiPMWRlST3sIIh4cqMtUaWiYkX1OtEkFRbV5v5b/WCM5xkmI2iIuP5t0YrbkRYSypQOlIG6iogwisIQxXZOzaFcwnJ1i+QJva3/bwQRreP8L8C5fpldjyZdmJRptasoS4pYKdDdKVWhDprzvxl1wOKFyjpHlH2EEENxcCzOxcNNIl6FJNNJAQlsWEEEEeel1mmuH/2Q==" width="36" height="36" alt="" />
                     </section>
                 </div>
             </section>

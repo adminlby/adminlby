@@ -75,8 +75,48 @@
 <tr><td>
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 18/04/2026 00:26:25 UTC
+```text
+🌞 Morning                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+🌆 Daytime                788 commits         ██████████░░░░░░░░░░░░░░░   41.74 % 
+🌃 Evening                1004 commits        █████████████░░░░░░░░░░░░   53.18 % 
+🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   573 commits         ████████░░░░░░░░░░░░░░░░░   30.35 % 
+Tuesday                  421 commits         ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Wednesday                103 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Thursday                 115 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Friday                   103 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Saturday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Sunday                   378 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
+💬 Programming Languages: 
+PHP                      3 hrs 13 mins       ██████████████████░░░░░░░   71.77 % 
+Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+JavaScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+SQL                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 29 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  4 hrs 29 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 19/04/2026 00:27:10 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>

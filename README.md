@@ -75,49 +75,8 @@
 <tr><td>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-🌆 Daytime                811 commits         ██████████░░░░░░░░░░░░░░░   41.06 % 
-🌃 Evening                1046 commits        █████████████░░░░░░░░░░░░   52.96 % 
-🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   578 commits         ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-Tuesday                  419 commits         █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-Wednesday                125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Thursday                 103 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Friday                   103 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Saturday                 204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Sunday                   443 commits         ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Hong_Kong
-
-💬 Programming Languages: 
-PHP                      3 hrs 15 mins       ███████████░░░░░░░░░░░░░░   44.09 % 
-JavaScript               1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Other                    56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-HTML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 46 mins       ███████████████████████░░   91.87 % 
-Claude Code              35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-
-💻 Operating System: 
-Windows                  7 hrs 22 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 28/05/2026 00:37:35 UTC
+ Last Updated on 29/05/2026 00:43:01 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>

@@ -5,8 +5,15 @@ on:
   schedule: [{cron: "0 0 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  # (optional) Run workflow only when this workflow file changes
+  push:
+    branches: ["master", "main"]
+    paths:
+      - ".github/workflows/metrics.yml"
+
+concurrency:
+  group: metrics-${{ github.ref }}
+  cancel-in-progress: true
 jobs:
   github-metrics:
     runs-on: ubuntu-latest

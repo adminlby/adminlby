@@ -75,50 +75,8 @@
 <tr><td>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                234 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-🌆 Daytime                1052 commits        ██████████░░░░░░░░░░░░░░░   40.20 % 
-🌃 Evening                1307 commits        ████████████░░░░░░░░░░░░░   49.94 % 
-🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   651 commits         ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
-Tuesday                  442 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Wednesday                164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Thursday                 205 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-Friday                   172 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Saturday                 453 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Sunday                   530 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Hong_Kong
-
-💬 Programming Languages: 
-JavaScript               3 hrs 35 mins       ██████████████████░░░░░░░   70.61 % 
-JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-Git                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-CSS                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 15 mins       █████████████████████░░░░   83.65 % 
-Unknown Editor           35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Claude Code              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-
-💻 Operating System: 
-Windows                  5 hrs 5 mins        █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 05/06/2026 00:39:32 UTC
+ Last Updated on 06/06/2026 00:37:32 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>

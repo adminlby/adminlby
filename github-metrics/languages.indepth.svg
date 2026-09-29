@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 43.7mb of code in 252 edited files across 77 commits</small>
+                <small>estimation from 44.3mb of code in 328 edited files across 80 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="430.1317170402311" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="430.1317170402311" y="0" width="23.4911931009234" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="453.6229101411545" y="0" width="6.377089858845544" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.1696413226549" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="448.1696413226549" y="0" width="9.304493348915546" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.4741346715705" y="0" width="2.525865328429519" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,8 +36,8 @@
                                 Swift
                             </div>
                             <small>
-                                <div>10.3k lines</div>
-                                <div>344 kB</div>
+                                <div>20k lines</div>
+                                <div>907 kB</div>
                             </small>
                         </div>
                         <div class="field language details">

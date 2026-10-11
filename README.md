@@ -83,21 +83,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1768 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-🌆 Daytime                3962 commits        ████████░░░░░░░░░░░░░░░░░   33.42 % 
-🌃 Evening                6009 commits        █████████████░░░░░░░░░░░░   50.68 % 
-🌙 Night                  117 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+🌞 Morning                1759 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+🌆 Daytime                3939 commits        ████████░░░░░░░░░░░░░░░░░   33.39 % 
+🌃 Evening                5989 commits        █████████████░░░░░░░░░░░░   50.76 % 
+🌙 Night                  111 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1251 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Tuesday                  1261 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Wednesday                1668 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Thursday                 2322 commits        █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Friday                   2499 commits        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-Saturday                 1639 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Sunday                   1216 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Monday                   1231 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Tuesday                  1248 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Wednesday                1668 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Thursday                 2321 commits        █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Friday                   2495 commits        █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+Saturday                 1623 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Sunday                   1212 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
 ```
 
 
@@ -107,45 +107,44 @@ Sunday                   1216 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Swift                    7 hrs 48 mins       ████████████████░░░░░░░░░   65.86 % 
-Other                    2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-Python                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-XML                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Swift                    5 hrs 3 mins        ██████████████████░░░░░░░   70.38 % 
+Other                    1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+XML                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 
 🔥 Editors: 
-Codex Vscode             9 hrs 50 mins       █████████████████████░░░░   83.03 % 
-VS Code                  2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Codex Vscode             6 hrs 10 mins       ██████████████████████░░░   86.05 % 
+VS Code                  1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 
 💻 Operating System: 
-Mac                      11 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      7 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 41 mins (98.64%)
+⏱ AI Coding Time: 7 hrs 8 mins (99.42%)
 
-✍️ 7,398 lines written by AI, 9 lines written by hand (99.88% AI-written)
+✍️ 3,214 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,082,117 Input Tokens, 635,614 Output Tokens
+🔤 4,825,342 Input Tokens, 365,931 Output Tokens
 
-💵 $147.42 Estimated AI Cost This Week
+💵 $108.65 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 211 AI Prompts
+🧠 11 AI Sessions, 93 AI Prompts
 
-GPT                      7,428 lines         ████████████████████████░   96.77 % 
-Codex-Vscode             248 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+GPT                      3,125 lines         ███████████████████████░░   92.65 % 
+Codex-Vscode             248 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.88% of written lines came from AI
-📚 Verbose Prompter — average 9,777 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.12% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 10,164 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/10/2026 03:46:19 UTC
+ Last Updated on 11/10/2026 03:18:29 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>

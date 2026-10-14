@@ -83,21 +83,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1806 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-🌆 Daytime                4029 commits        ████████░░░░░░░░░░░░░░░░░   33.41 % 
-🌃 Evening                6113 commits        █████████████░░░░░░░░░░░░   50.69 % 
-🌙 Night                  112 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+🌞 Morning                1763 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+🌆 Daytime                3975 commits        ████████░░░░░░░░░░░░░░░░░   33.47 % 
+🌃 Evening                6029 commits        █████████████░░░░░░░░░░░░   50.76 % 
+🌙 Night                  111 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1248 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Tuesday                  1299 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Wednesday                1704 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Thursday                 2379 commits        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Friday                   2547 commits        █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-Saturday                 1652 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Sunday                   1231 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Monday                   1239 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Tuesday                  1272 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Wednesday                1668 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Thursday                 2345 commits        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Friday                   2507 commits        █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Saturday                 1627 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Sunday                   1220 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
 ```
 
 
@@ -107,43 +107,40 @@ Sunday                   1231 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Swift                    3 hrs               ███████████████░░░░░░░░░░   60.75 % 
-Other                    1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
-XML                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-JavaScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Swift                    30 mins             ████████████████████░░░░░   79.02 % 
+Other                    8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
 
 🔥 Editors: 
-Codex Vscode             4 hrs 54 mins       █████████████████████████   99.13 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Codex Vscode             39 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 57 mins       █████████████████████████   100.00 % 
+Mac                      39 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 54 mins (99.16%)
+⏱ AI Coding Time: 39 mins (100.0%)
 
-✍️ 2,735 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 80 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,344,536 Input Tokens, 248,824 Output Tokens
+🔤 697,156 Input Tokens, 35,427 Output Tokens
 
-💵 $62.40 Estimated AI Cost This Week
+💵 $11.08 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 21 AI Prompts
+🧠 1 AI Sessions, 7 AI Prompts
 
-GPT                      2,772 lines         █████████████████████████   100.00 % 
+GPT                      80 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 286 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📝 Concise Prompter — average 33 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/10/2026 04:55:34 UTC
+ Last Updated on 14/10/2026 03:02:53 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>

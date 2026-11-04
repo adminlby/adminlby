@@ -107,43 +107,38 @@ Sunday                   1293 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-TypeScript               28 mins             █████████░░░░░░░░░░░░░░░░   34.70 % 
-Markdown                 21 mins             ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
-CSS                      19 mins             ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
-Python                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+YAML                     0 secs              ███████████████░░░░░░░░░░   59.88 % 
+Python                   0 secs              ██████████░░░░░░░░░░░░░░░   40.12 % 
 
 🔥 Editors: 
-VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 23 mins (99.93%)
+⏱ AI Coding Time: 0 secs (59.88%)
 
-✍️ 1,144 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 21 AI Prompts
-
-Default                  1,184 lines         █████████████████████████   100.00 % 
+🧠 1 AI Sessions, 1 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 141 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 18 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/11/2026 04:53:35 UTC
+ Last Updated on 04/11/2026 04:19:23 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>

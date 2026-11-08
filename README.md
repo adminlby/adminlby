@@ -83,21 +83,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1602 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-🌆 Daytime                3912 commits        █████████░░░░░░░░░░░░░░░░   34.71 % 
-🌃 Evening                5646 commits        █████████████░░░░░░░░░░░░   50.09 % 
-🌙 Night                  112 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+🌞 Morning                1602 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+🌆 Daytime                3914 commits        █████████░░░░░░░░░░░░░░░░   34.70 % 
+🌃 Evening                5651 commits        █████████████░░░░░░░░░░░░   50.10 % 
+🌙 Night                  113 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1262 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Tuesday                  1279 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Wednesday                1486 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Thursday                 2111 commits        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Friday                   2253 commits        █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-Saturday                 1589 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Sunday                   1292 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Monday                   1262 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Tuesday                  1279 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Wednesday                1486 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Thursday                 2111 commits        █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+Friday                   2255 commits        █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Saturday                 1594 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Sunday                   1293 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
 ```
 
 
@@ -107,15 +107,17 @@ Sunday                   1292 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   1 min               ██████████████████████░░░   88.71 % 
-SQL                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Markdown                 18 mins             ████████████░░░░░░░░░░░░░   47.54 % 
+Python                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+YAML                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  39 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Windows                  39 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -125,7 +127,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 07/11/2026 04:03:59 UTC
+ Last Updated on 08/11/2026 03:49:06 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>

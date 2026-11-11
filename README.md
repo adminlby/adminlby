@@ -83,21 +83,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1557 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-🌆 Daytime                3882 commits        █████████░░░░░░░░░░░░░░░░   34.77 % 
-🌃 Evening                5613 commits        █████████████░░░░░░░░░░░░   50.28 % 
-🌙 Night                  112 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+🌞 Morning                1601 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+🌆 Daytime                3908 commits        █████████░░░░░░░░░░░░░░░░   34.67 % 
+🌃 Evening                5646 commits        █████████████░░░░░░░░░░░░   50.09 % 
+🌙 Night                  117 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1234 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Tuesday                  1270 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Wednesday                1477 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Thursday                 2091 commits        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Friday                   2237 commits        █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Saturday                 1573 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Sunday                   1282 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Monday                   1257 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Tuesday                  1284 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Wednesday                1487 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Thursday                 2111 commits        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+Friday                   2249 commits        █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Saturday                 1589 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Sunday                   1295 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
 ```
 
 
@@ -107,17 +107,17 @@ Sunday                   1282 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 24 mins             ████████░░░░░░░░░░░░░░░░░   32.43 % 
-TypeScript               16 mins             █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-Text                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Python                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-YAML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+TypeScript               34 mins             ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
+Bash                     28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Markdown                 26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+SQL                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Text                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 
 🔥 Editors: 
-VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -127,7 +127,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 10/11/2026 05:35:07 UTC
+ Last Updated on 11/11/2026 04:06:15 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>

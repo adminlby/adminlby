@@ -83,8 +83,8 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2178 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-🌆 Daytime                4129 commits        ████████░░░░░░░░░░░░░░░░░   32.47 % 
+🌞 Morning                2179 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+🌆 Daytime                4130 commits        ████████░░░░░░░░░░░░░░░░░   32.47 % 
 🌃 Evening                6150 commits        ████████████░░░░░░░░░░░░░   48.36 % 
 🌙 Night                  259 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
@@ -94,9 +94,9 @@
 Monday                   1290 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
 Tuesday                  1434 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
 Wednesday                1709 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Thursday                 2913 commits        ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+Thursday                 2913 commits        ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
 Friday                   2288 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Saturday                 1719 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Saturday                 1721 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
 Sunday                   1363 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
 ```
 
@@ -107,45 +107,45 @@ Sunday                   1363 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   3 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.68 % 
-Markdown                 1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-TypeScript               1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Go                       54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Python                   2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+Markdown                 1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+TypeScript               1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Go                       54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 🔥 Editors: 
-Codex Vscode             8 hrs 47 mins       ██████████████████████░░░   89.62 % 
-VS Code                  1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Codex Vscode             8 hrs 13 mins       ██████████████████████░░░   88.99 % 
+VS Code                  1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
 
 💻 Operating System: 
-Windows                  9 hrs 32 mins       ████████████████████████░   97.30 % 
-Mac                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Windows                  8 hrs 59 mins       ████████████████████████░   97.14 % 
+Mac                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs (91.88%)
+⏱ AI Coding Time: 8 hrs 27 mins (91.4%)
 
-✍️ 4,262 lines written by AI, 3 lines written by hand (99.93% AI-written)
+✍️ 3,999 lines written by AI, 3 lines written by hand (99.93% AI-written)
 
-🔤 2,309,680 Input Tokens, 698,564 Output Tokens
+🔤 2,077,404 Input Tokens, 642,243 Output Tokens
 
-💵 $31.81 Estimated AI Cost This Week
+💵 $29.79 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 32 AI Prompts
+🧠 5 AI Sessions, 32 AI Prompts
 
-GPT                      4,309 lines         █████████████████████████   100.00 % 
+GPT                      4,046 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.93% of written lines came from AI
 📝 Concise Prompter — average 120 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.51% of changed lines were hand-edited
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.54% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/11/2026 05:13:34 UTC
+ Last Updated on 21/11/2026 05:06:26 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>

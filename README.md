@@ -83,19 +83,19 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2190 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+🌞 Morning                2191 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
 🌆 Daytime                4168 commits        ████████░░░░░░░░░░░░░░░░░   32.56 % 
-🌃 Evening                6177 commits        ████████████░░░░░░░░░░░░░   48.26 % 
+🌃 Evening                6178 commits        ████████████░░░░░░░░░░░░░   48.26 % 
 🌙 Night                  265 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1314 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Monday                   1314 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
 Tuesday                  1446 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
 Wednesday                1711 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Thursday                 2914 commits        ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-Friday                   2292 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+Thursday                 2915 commits        ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+Friday                   2293 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
 Saturday                 1756 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
 Sunday                   1367 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
 ```
@@ -107,45 +107,45 @@ Sunday                   1367 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-Swift                    2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-Markdown                 1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Lua                      1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Python                   1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Other                    2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Swift                    2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Markdown                 1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Lua                      1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Python                   1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
 
 🔥 Editors: 
-Codex Vscode             9 hrs 12 mins       ██████████████████░░░░░░░   72.87 % 
-VS Code                  3 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.13 % 
+Codex Vscode             8 hrs 29 mins       █████████████████░░░░░░░░   69.52 % 
+VS Code                  3 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.48 % 
 
 💻 Operating System: 
-Windows                  7 hrs 13 mins       ██████████████░░░░░░░░░░░   57.19 % 
-Mac                      5 hrs 24 mins       ███████████░░░░░░░░░░░░░░   42.81 % 
+Windows                  7 hrs 3 mins        ██████████████░░░░░░░░░░░   57.87 % 
+Mac                      5 hrs 8 mins        ███████████░░░░░░░░░░░░░░   42.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs (95.06%)
+⏱ AI Coding Time: 11 hrs 17 mins (92.48%)
 
-✍️ 22,547 lines written by AI, 183 lines written by hand (99.19% AI-written)
+✍️ 22,545 lines written by AI, 193 lines written by hand (99.15% AI-written)
 
-🔤 14,907,961 Input Tokens, 2,456,091 Output Tokens
+🔤 14,485,958 Input Tokens, 2,414,139 Output Tokens
 
-💵 $753.80 Estimated AI Cost This Week
+💵 $746.99 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 93 AI Prompts
+🧠 40 AI Sessions, 88 AI Prompts
 
-GPT                      23,046 lines        █████████████████████████   100.00 % 
+GPT                      23,011 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.19% of written lines came from AI
-📝 Concise Prompter — average 328 characters per prompt
+🤖 AI-Driven — 99.15% of written lines came from AI
+📝 Concise Prompter — average 340 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.79% of changed lines were hand-edited
+🚀 High AI Trust — 0.84% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/11/2026 06:19:59 UTC
+ Last Updated on 27/11/2026 06:08:54 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
